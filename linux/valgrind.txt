@@ -1,0 +1,2 @@
+valgrind --leak-check=full --show-reachable=yes --track-origins=yes --dsymutil=yes ./meuPrograma
+e compilar com opção -g
